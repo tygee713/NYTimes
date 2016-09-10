@@ -1,4 +1,4 @@
-#Simple Boiler
+#NY Times
 
 A simple boilerplate for deploying static assets to heroku.
 
